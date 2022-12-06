@@ -1,0 +1,58 @@
+[
+  {
+    "img": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg",
+    "name": "Messman Curry Fry",
+    "body": "Massaman Curry paste is the key to making this recipe successful, it’s the one thing you really don’t want to leave out or substitute (As an Amazon Associate we earn from qualifying purchases.). Using store-bough curry paste is so much easier than trying to make your own paste from scratch. Curry paste is very thick and similar to the consistency of tomato paste. It is quite fragrant and will fill up the room with a strong (yet, delicious smelling) aroma. Don’t worry, once you stir in the coconut milk, it will mellow out. ",
+    "price": "500",
+    "rating": 4
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/closeup-vegetable-vegetarian-pizza-wooden-table-top-view_169016-22301.jpg",
+    "name": "Vegetable Pizza",
+    "body": "Bursting with rich aroma of herbs & spices and flavours, pizza is one of the most loved dishes of Italian cuisine. This pizza recipe is made with the combination of delicious vegetables like broccoli, onion, capsicum, carrot, mushroom and cauliflower along with tomatoes, pizza sauce, and goat cheese. Vegetable Pizza is undoubtedly one of the easiest recipes that you can prepare for your family and friends on occasions like kitty party, game night, and even pot luck. If your kids hate eating vegetables, then you certainly should attempt at making this mouth-watering pizza and they will chew down on the green vegetables without any fuss. Cheesy and delectable, this dish is best enjoyed with tomato ketchup. You can add your own spices and herbs to bring more flavours to the pizza. So, don't wait much and try this easy recipe today for your loved ones!",
+    "price": "500",
+    "rating": 3
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/pakistani-food-wooden-board-view_23-2148825096.jpg",
+    "name": "Pakistani Food",
+    "body": "Roaring with dazzling flavor combinations and often accompanied with plenty of heat and spice, Pakistani food takes you on a culinary experience like no other in Asia. A cuisine as diverse as the country’s culture and population, the foods of Pakistan bring together influences from across Asia.",
+    "price": "500",
+    "rating": 5
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/big-sandwich-hamburger-with-juicy-beef-burger-cheese-tomato-red-onion-wooden-table_2829-19631.jpg",
+    "name": "Hamburger With Juicy",
+    "body": "I’ll show you how to make burgers on the stove and on the grill, so you can decide how you want to do it. The stovetop burger method means you can do this anytime of year!",
+    "price": "500",
+    "rating": 4
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/sandwich-with-chicken-burger-tomatoes-lettuce_2829-16584.jpg",
+    "name": "Sandwich With Chicken Burger",
+    "body": "A chicken sandwich is a sandwich that typically consists of boneless, skinless chicken breast or thigh served between slices of bread, on a bun, or on a roll. Variations on the \"chicken sandwich\" include the chicken burger, chicken on a bun, chickwich, hot chicken, or chicken salad sandwich.",
+    "price": "500",
+    "rating": 3
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/fried-rice-with-minced-pork-tomato-carrot-cucumber-plate_1150-27179.jpg",
+    "name": "Fried Rice With Minced Pork",
+    "body": "In a Chinese household, cooked rice never goes to waste. One of the quickest and easiest ways to make use of leftover rice is to turn it into fried rice the following day. It can be as simple as a classic Egg Fried Rice or something more elaborate like my Beef and Pineapple Fried Rice.",
+    "price": "500",
+    "rating": 4
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/tasty-pakistani-dishhigh-angle_23-2148825148.jpg",
+    "name": "Tasty pakistani Dish High Angle",
+    "body": "Nihari begins as a heap of dry spices frying in vegetable oil and animal fat. The meat ingredients follow (most commonly beef shank), and a very healthy portion of Desi Ghee (home-made local clarified butter). The slow-cooking stew is then stirred altogether in a glorious cauldron of a pot.",
+    "price": "500",
+    "rating": 4
+  },
+  {
+    "img": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg",
+    "name": "Classic Lasagna With Bolognese Sauce",
+    "body": "The authentic traditional recipe of lasagna Bolognese is made up of three main preparations: fresh egg pasta (Lasagna Noodles), Bolognese Sauce (Ragu alla Bolognese) and bechamel.",
+    "price": "500",
+    "rating": 4
+  }
+]
